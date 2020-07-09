@@ -1,0 +1,40 @@
+body{
+    background-color: #99b898;
+}
+
+h1{
+    font-size: 50px; 
+    color: rgb(85, 15, 85);
+    font-family: 'Modak', cursive;
+    text-align: center;
+    padding: 15px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    image-rendering: pixelated;
+}
+
+p{
+    font-size: 20px; 
+    color: rgb(85, 15, 85);
+    font-family: 'Galada', cursive;
+    text-align: start;
+}
+
+.nav{
+    background-color: #feceab;
+}
+
+.nav a{
+    display: block;
+    background-color: #ff847c;
+    color: #000000;
+    font-size: 30px; 
+}
+
+.nav a:hover{
+    background-color: transparent;
+    color: blueviolet;
+}
